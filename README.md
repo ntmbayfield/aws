@@ -1376,3 +1376,4 @@ If you have technical questions about AWS IoT Device SDK, use the [AWS IoT Forum
 For any other questions on AWS IoT, contact [AWS Support](https://aws.amazon.com/contact-us).
 
 # aws
+# awsIot
